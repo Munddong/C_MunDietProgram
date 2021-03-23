@@ -64,3 +64,6 @@ BMI표 계산 공식
 ```
 0번 입력 -> 프로그램 종료
 ```
+
+## 7. 프로젝트 시현 동영상
+![C++ 프로젝트 영상](https://user-images.githubusercontent.com/81169838/112112069-635b2500-8bf8-11eb-937c-f559db70008b.gif)
