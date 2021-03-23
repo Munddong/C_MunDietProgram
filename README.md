@@ -7,3 +7,4 @@
 ```
 
 1. 실행 화면
+![image](https://user-images.githubusercontent.com/81169838/112105256-82a18480-8bef-11eb-9515-da67663ac00a.png)
