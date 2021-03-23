@@ -51,3 +51,16 @@ BMI표 계산 공식
 ```
 다이어트 자극 문구.
 ```
+
+## 5. 예외 처리
+![image](https://user-images.githubusercontent.com/81169838/112109762-4bce6d00-8bf5-11eb-92cd-5b7f10e8b3e5.png)
+```
+메뉴에 없는 번호 입력 ↓
+```
+![image](https://user-images.githubusercontent.com/81169838/112109992-9fd95180-8bf5-11eb-8a1a-0c92a870dbe2.png)
+
+## 6. 종료
+![image](https://user-images.githubusercontent.com/81169838/112110090-c6978800-8bf5-11eb-81df-623f5b74c062.png)
+```
+0번 입력 -> 프로그램 종료
+```
