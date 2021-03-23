@@ -10,3 +10,6 @@
  
 ![image](https://user-images.githubusercontent.com/81169838/112105256-82a18480-8bef-11eb-9515-da67663ac00a.png)
 - 실행 화면 상단에 년도와 날짜 등록 및 프로그램 이름과 메뉴 등이 있다.
+
+ 2. 메뉴 선택(1)
+ 
