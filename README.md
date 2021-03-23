@@ -13,7 +13,7 @@
 ```
 ## 2. 메뉴 선택(1)
 ```
-무한루프를 이용한 반복된 메뉴선택
+무한루프를 이용한 반복된 메뉴 선택.
 ```
 ![image](https://user-images.githubusercontent.com/81169838/112106346-e6787d00-8bf0-11eb-8b43-cdaade875891.png)
 ```
