@@ -6,5 +6,6 @@
             군대 전역 및 2학년 복학 후 첫 프로젝트를 헬스 프로그램으로 개발했다.
 ```
 
-1. 실행 화면
+ 1. 실행 화면
+ 
 ![image](https://user-images.githubusercontent.com/81169838/112105256-82a18480-8bef-11eb-9515-da67663ac00a.png)
