@@ -29,5 +29,25 @@ BMI표 계산 공식
 ## 4. 메뉴 선택(3 ~ 7)
 ![image](https://user-images.githubusercontent.com/81169838/112108588-c1d1d480-8bf3-11eb-8a6b-c1635bf4e563.png)
 ```
-식단 출력
+다이어트 식단.
+```
+
+![image](https://user-images.githubusercontent.com/81169838/112109049-66ecad00-8bf4-11eb-8871-5162678d341e.png)
+```
+다이어트에 이롭고 해로운 음식.
+```
+
+![image](https://user-images.githubusercontent.com/81169838/112109208-9f8c8680-8bf4-11eb-8fbb-87585c102371.png)
+```
+다이어트 시 지켜야할 규칙.
+```
+
+![image](https://user-images.githubusercontent.com/81169838/112109349-cb0f7100-8bf4-11eb-8cc7-5dc828551186.png)
+```
+다이어트 포기 금지 문구.
+```
+
+![image](https://user-images.githubusercontent.com/81169838/112109474-f98d4c00-8bf4-11eb-9c9d-bd41dea554b0.png)
+```
+다이어트 자극 문구.
 ```
